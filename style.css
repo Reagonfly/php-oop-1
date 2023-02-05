@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.img-top {
+    height: 700px;
+}
+
+.card-body {
+    height: 280px;
+}
+
+.row {
+    width: 70%;
+    margin: 0 auto;
+}
+
+.card {
+    margin-top: 2rem;
+}
